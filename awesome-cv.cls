@@ -83,6 +83,9 @@
 % Needed to deal hyperlink
 \RequirePackage[hidelinks,unicode,pdfpagelabels=false]{hyperref}
 \hypersetup{%
+  colorlinks = true,
+  linkcolor = awesome-skyblue,
+  urlcolor  = awesome-skyblue,
   pdftitle={},
   pdfauthor={},
   pdfsubject={},
